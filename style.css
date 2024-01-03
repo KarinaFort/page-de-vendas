@@ -453,10 +453,10 @@ footer{
 
 
 .custom-button {
-margin-left: 23%;
+margin-left: 15%;
   display: flex;
   align-items: center;
-  width: 400px;
+  width: 300px;
   padding: 10px;
   border: 2px solid #7434db;
   border-radius: 5px;
